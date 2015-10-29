@@ -1,4 +1,5 @@
 # chuck_joke
+[![Build Status](https://travis-ci.org/azidn1nja/chuck_joke.svg)](https://travis-ci.org/azidn1nja/chuck_joke)
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
 
 Sample program used to show students Gradle in action. Based on [Jón Ingi's Hello World Gradle app](https://github.com/joningis/hugb_hello_world).
